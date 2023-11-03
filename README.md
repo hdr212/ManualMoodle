@@ -149,10 +149,10 @@ vagrant ssh
 
 INICIAR SESION
 
-cd /etc/php/8.1/apache2/
+cd /var/www/html
 
-vi php.ini
+vi config.php
 
-max_input_vars = 5000
+Cambias la IP
 
 
